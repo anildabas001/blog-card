@@ -13,6 +13,12 @@
     --light-grey-color: hsl(0, 0%, 42%);
 }
 
+.blog-card-container .blog-meta-data {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
 body {
     background-color: var(--yellow-color);
     font-family: "Figtree", sans-serif;
@@ -91,8 +97,4 @@ body {
     cursor: pointer;    
 }
 
-.blog-card-container .blog-meta-data {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
+
