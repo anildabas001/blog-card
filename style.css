@@ -91,7 +91,7 @@ body {
     cursor: pointer;    
 }
 
-.blog-card-container .meta-datda {
+.blog-card-container .meta-data {
     display: flex;
     flex-direction: column;
     gap: 10px;
