@@ -39,7 +39,7 @@ body {
     min-height: 460px;
     border: 1px solid var(--black-color);
     border-radius: 20px;
-    padding: 30px;
+    padding: 35px;
     display: flex;
     gap: 20px;
     flex-direction: column;
