@@ -58,7 +58,7 @@ body {
     border-radius: 10px;
 }  
 
-.blog-card-container button {
+.blog-card-container .blog-meta-data button {
     width: 80px;
     height: 30px;
     background-color: var(--yellow-color);
@@ -67,7 +67,7 @@ body {
     font-weight: bold;
 }
 
-.blog-card-container p.publish-date {
+.blog-card-container .blog-meta-data p.publish-date {
     color: var(--dark-grey-color);
     font-size: 0.9rem;
 }
